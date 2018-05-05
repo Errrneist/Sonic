@@ -8,4 +8,4 @@
 ### RPG Maker
 * [Parallel Fantasy](https://github.com/Errrneist/Sonic/tree/master/RPGMaker/Project%20Parallel%20Fantasy) (2016)
 ### Unity
-* [Number Wizard]
+* [Number Wizard](https://github.com/Errrneist/Sonic/tree/master/Unity/Number%20Wizard)
